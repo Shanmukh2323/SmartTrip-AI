@@ -26,7 +26,7 @@ AI Model: Google Gemini Pro
 Backend: Python
 🚀 Installation & Usage
 1️⃣ Clone the Repository
-git clone https://github.com/Suneelsuni/SmartTrip-Assistant.git
+git clone https://github.com/Shanmukh2323/SmartTrip-AI.git
 cd SmartTrip-Assistant
 2️⃣ Install Dependencies
 Ensure you have Python installed, then run:
@@ -47,8 +47,7 @@ streamlit run app.py
 This project is open-source and licensed under the MIT License.
 
 📂 Repository Structure
-Suneelsuni/SmartTrip Assistant
-├── .gitignore                # Ignore unnecessary files
+Suneelsuni/SmartTrip Assistant               
 ├── LICENSE                   # License information
 ├── README.md                 # Project documentation
 ├── app.py                    # Main Streamlit application
