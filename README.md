@@ -55,3 +55,6 @@ Suneelsuni/SmartTrip Assistant
 ├── requirements.txt
 
 👨‍💻 Developed By Shanmukh😃
+![screencapture-localhost-8510-2025-06-22-22_24_13](https://github.com/user-attachments/assets/bb04fdbd-3fb8-47db-8b38-3ba97231a6f9)
+![screencapture-localhost-8501-2025-06-22-21_50_21](https://github.com/user-attachments/assets/4c4a3b69-276c-46a1-b6c6-0bf0033cd7f3)
+
